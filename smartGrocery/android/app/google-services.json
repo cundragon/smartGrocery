@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828493753653",
+    "project_id": "smart-grocery-group-8-cs440",
+    "storage_bucket": "smart-grocery-group-8-cs440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828493753653:android:d94f457fb7371da3f9707c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsYagFhZHRkPMc-d-0JDP09sXZ_dEEAIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
